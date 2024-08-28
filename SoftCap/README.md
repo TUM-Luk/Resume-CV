@@ -5,7 +5,8 @@
 
 ## Project Files
 This is the project folder for SoftCap.
-Due to historical reasons, All the codes can be found in repository: https://github.com/LuckyMax0722/SoftCap/tree/master
+
+All the codes can be found in repository: https://github.com/LuckyMax0722/SoftCap/tree/master
 
 
 ### Projcet Poster
