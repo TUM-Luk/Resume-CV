@@ -7,18 +7,21 @@
 This is the project folder for SoftCap.
 Due to historical reasons, All the codes can be found in repository: https://github.com/LuckyMax0722/SoftCap/tree/master
 
-Project Poster
 
 ### Projcet Poster
-The poster can be found in [![Poster.pdf](./cover_png/poster.png)](./Poster.pdf)
+The poster can be found in [Poster.pdf](./Poster.pdf)
+<p align="left"><img src="./cover_png/poster.png" width="400px"/></p>
 
 ### Project Techinical Report
-The report can be found in [![Poster.pdf](./cover_png/report.png)](./Dense_Captioning_Report_Yunxiang_Jiachen.pdf)
+The report can be found in [Dense_Captioning_Report_Yunxiang_Jiachen.pdf](./Dense_Captioning_Report_Yunxiang_Jiachen.pdf)
+<p align="left"><img src="./cover_png/report.png" width="400px"/></p>
 
 ### Project Presentation
-The first presentation can be found in [![Poster.pdf](./cover_png/pre_1.png)](./SoftCap_Pre_1.pdf)
+The first presentation can be found in [SoftCap_Pre_1.pdf](./SoftCap_Pre_1.pdf)
+<p align="left"><img src="./cover_png/pre_1.png" width="400px"/></p>
 
-The second presentation can be found in [![Poster.pdf](./cover_png/pre_2.png)](./SoftCap_Pre_2.pdf)
+The second presentation can be found in [SoftCap_Pre_2.pdf](./SoftCap_Pre_2.pdf)
+<p align="left"><img src="./cover_png/pre_2.png" width="400px"/></p>
 
 ## Introduction
 We propose a model using SoftGroup based detection backbone. With sparse convolution and soft grouping mechanism, 
